@@ -8,4 +8,4 @@
 <p> Below is an image of structures trout will typically hide in awaiting movement of prey.</p>
 <p><img src=https://user-images.githubusercontent.com/79542721/111178075-6c048900-8570-11eb-9e54-a81965a21abf.jpg width= 400 height= 300></p>
 [![Spinning Lure](https://img.youtube.com/vi/WR-YSSN0-yA/o.jpg)](https://www.youtube.com/watch?v=WR-YSSN0-yA)
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
