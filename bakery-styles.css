@@ -20,6 +20,7 @@ header {
 header p {
   font-style: italic;
   font-size: 1.2em;
+  height: 15em;
 }
 
 /* nav styles */
@@ -45,6 +46,7 @@ main {
   background-color: white;
   line-height: 1.8em;
   color: #555;
+  padding: 1em;
 }
 h3 {
   text-transform: uppercase;
@@ -61,12 +63,14 @@ p.more {
 aside {
   background: url(images/scallop.png) repeat-y left top;
   background-color: #F6F3ED;
+  padding: 1em;  padding-left: 45px;
 }
 /* misc styles */
 footer {
   color: #EADDC4;
   text-align: center;
   font-size: .8em;
+  padding: 1em;
 }
 h2 {
   font-family: 'Stint Ultra Expanded', cursive;
@@ -77,3 +81,4 @@ h2 {
   font-size: .8em;
   text-transform: uppercase;
 }
+html {   box-sizing: border-box; } * { 	  box-sizing: inherit; } 
